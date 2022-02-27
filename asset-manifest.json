@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tictacnew/static/css/main.6ccdcf79.css",
+    "main.js": "/tictacnew/static/js/main.bad52f62.js",
+    "index.html": "/tictacnew/index.html",
+    "main.6ccdcf79.css.map": "/tictacnew/static/css/main.6ccdcf79.css.map",
+    "main.bad52f62.js.map": "/tictacnew/static/js/main.bad52f62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ccdcf79.css",
+    "static/js/main.bad52f62.js"
+  ]
+}
